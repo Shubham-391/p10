@@ -5,11 +5,16 @@
     --black: black;
     --white: white;
     --black1: rgba(0, 0, 0, 0.05);
+    --grey: #9CA1BE;
 
     /* bg-color */
     --bg-d-blue: #2C49FE;
+    --bg-skyblue: #01C8FF;
     --bg-c1: rgba(44, 73, 254, 0.10);
     --bg-white: white;
+    --bg-c2: #F1F2F5;
+    --bg-black: black;
+    --bg-blue1: rgba(45, 60, 174, 0.53);
 
     /* font size */
     --vs: 12px;
