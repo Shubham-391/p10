@@ -46,6 +46,14 @@
 
     .s2text {
         margin-bottom: 20px;
+
+    }
+
+    .s2 {
+        display: flex;
+        flex-direction: column-reverse;
+        flex-wrap: wrap;
+        align-items: center;
     }
 
     /* section3 */
@@ -472,5 +480,9 @@
     .s2text {
         width: 642px;
         margin-bottom: unset;
+    }
+
+    .s2 {
+        flex-direction: row;
     }
 }

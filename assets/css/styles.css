@@ -259,12 +259,7 @@ header {
     margin-left: 7px;
 }
 
-.s2 {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-items: center;
-}
+
 
 .play {
     display: flex;
@@ -542,5 +537,5 @@ header {
 }
 
 .hover:hover {
-    transform: scale(1.5);
+    transform: scale(1.1);
 }
