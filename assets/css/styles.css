@@ -102,7 +102,7 @@ header {
 }
 
 .s1img {
-    width: 401px;
+    max-width: 401px;
     height: 408px;
     border-radius: 30px;
 }
